@@ -1,0 +1,37 @@
+loja-lumina/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+│
+├── docs/
+│   └── requisitos.md
+│
+├── frontend/
+│   ├── index.html
+│   ├── pages/
+│   │   ├── produtos.html
+│   │   └── carrinho.html
+│   │
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── main.js
+│   │
+│   └── assets/
+│       └── images/
+│
+├── backend/
+│   ├── app.py
+│   ├── data/
+│   │   └── produtos.json
+│   │
+│   └── services/
+│       └── __init__.py
+│
+├── tests/
+│   └── __init__.py
+│
+└── notebooks/
+    └── README.md
